@@ -12,8 +12,10 @@ $config->set('modelsFolder', 'models/');
 $config->set('viewsFolder', 'views/');
 
 // Parámetros de conexión a la BD
-$config->set('dbhost', 'localhost');
-$config->set('dbname', 'tareas_bd');
+$config->set('dbhost', 'turntable.proxy.rlwy.net:58739');
+$config->set('dbname', 'railway');
 $config->set('dbuser', 'root');
-$config->set('dbpass', '');
+$config->set('dbpass', 'EdqmRTNPMlQCvTEmOgEmkdGRGevOfXAz');
 ?>
+
+//mysql://root:EdqmRTNPMlQCvTEmOgEmkdGRGevOfXAz@turntable.proxy.rlwy.net:58739/railway
