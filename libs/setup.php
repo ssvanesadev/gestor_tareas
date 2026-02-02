@@ -17,5 +17,3 @@ $config->set('dbname', 'railway');
 $config->set('dbuser', 'root');
 $config->set('dbpass', 'EdqmRTNPMlQCvTEmOgEmkdGRGevOfXAz');
 ?>
-
-//mysql://root:EdqmRTNPMlQCvTEmOgEmkdGRGevOfXAz@turntable.proxy.rlwy.net:58739/railway
